@@ -1,0 +1,25 @@
+.navbar-nav li{
+	border: 0px solid brown; 
+	padding: 0px; 
+	background-color: #FFFFFF;
+}
+
+.nav-link{
+	color: Black;
+}
+
+
+
+.footer-bottom{
+  background: #000000;
+   color: white;
+    font-size: 0.8rem;
+    padding: 1rem 0;
+      text-align: center;
+}
+
+img {
+height: auto;
+max-width: 100%;
+}
+
